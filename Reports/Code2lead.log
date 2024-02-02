@@ -1,0 +1,8 @@
+01/02/24 11:49:34 PM Thursday - webDriverclass - INFO : Chrome browser launched
+02/02/24 08:41:05 AM Friday - webDriverclass - INFO : Chrome browser launched
+02/02/24 08:44:31 AM Friday - webDriverclass - INFO : Chrome browser launched
+02/02/24 08:44:40 AM Friday - BaseClass - INFO : web page launched with url:http://dummypoint.com/seleniumtemplate.html
+02/02/24 04:32:14 PM Friday - webDriverclass - INFO : Chrome browser launched
+02/02/24 04:32:21 PM Friday - BaseClass - INFO : web page launched with url:http://dummypoint.com/seleniumtemplate.html
+02/02/24 04:32:21 PM Friday - BaseClass - INFO : webElement found with locator value//input[@id='submitbutton']using loactorTypexpath
+02/02/24 04:32:22 PM Friday - BaseClass - INFO : scrolled to webelement
